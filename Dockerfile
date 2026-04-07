@@ -1,2 +1,2 @@
 FROM nginx
-COPT index.html/usr/share/nginx/html/insex.html
+COPT index.html/usr/share/nginx/html/index.html
